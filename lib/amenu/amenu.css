@@ -10,6 +10,10 @@
     display: block;
 }
 
+.amenu__burger-btn:hover ~ .amenu__burger-list {
+    display: block;
+}
+
 .amenu__burger-btn {
     display: none;
     width: 24px;
