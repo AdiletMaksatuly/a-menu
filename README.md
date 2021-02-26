@@ -2,6 +2,7 @@
 
 Adaptive burger-menu. HTML starter template:
 
+<pre>
 nav class="menu"
 	ul class="menu__list"
 		li class="menu__item"
@@ -11,3 +12,4 @@ nav class="menu"
 	ul
 	div class="menu__burger" div
 nav 
+</pre>
